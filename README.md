@@ -16,3 +16,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+THis is a simple calendar code written in java that displays the current month and year. It also redirects the user to the selected month and year as specified 
