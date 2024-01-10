@@ -1,20 +1,3 @@
-## Getting Started
+A simple Java Application that displays a Calendar.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-THis is a simple calendar code written in java that displays the current month and year. It also redirects the user to the selected month and year as specified 
+<img width="415" alt="Screenshot 2024-01-11 at 2 08 16 AM" src="https://github.com/hard-to-smart/Calendar/assets/116953971/a8478d5a-c5fe-4523-aff9-7e6784b80d8d">
